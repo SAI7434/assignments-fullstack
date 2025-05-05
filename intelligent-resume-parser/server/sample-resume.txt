@@ -1,0 +1,19 @@
+Test Screen Recording: 
+
+https://drive.google.com/file/d/1rvIN1dPXhwGshoOK0txyMme8dMj3WFA_/view?usp=sharing 
+
+Sample Resume Input:
+
+John Doe
+Email: john@example.com
+
+Skills:
+- JavaScript (Expert)
+- Python (Intermediate)
+
+Work Experience:
+Software Engineer, TechCorp (2019–2022)
+Frontend Developer, WebApps Inc. (2017–2019)
+
+Education:
+B.Tech in Computer Science, XYZ University (2015)
